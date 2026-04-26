@@ -11,3 +11,5 @@ git add . (tam musi byt mezi teckou a add mezera) pridavame soubory
 git commit -m "" tím zmeny potvrdime a davema zpravu kdo a kdy to udelal
 
 git push
+
+edit z githubu
